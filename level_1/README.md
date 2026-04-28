@@ -16,6 +16,17 @@ StellarPay is a sleek, modern decentralized application (dApp) for sending **XLM
 
 ---
 
+## 📄 Contract Information
+
+- **Network**: Stellar Testnet
+- **Contract ID**: `CBYEI2DKWGOPKJH6GYK7LDAHPAR4NG6ONYVY5N7U7ENME6Z7S5Q6G7RR`
+- **Explorer Link**: [View on StellarExpert](https://stellar.expert/explorer/testnet/contract/CBYEI2DKWGOPKJH6GYK7LDAHPAR4NG6ONYVY5N7U7ENME6Z7S5Q6G7RR)
+- **Verified Interaction**: [View Transaction on StellarExpert](https://stellar.expert/explorer/testnet/tx/65950d668b6b379c325bd814552fa2f7a56467bd15af1d09e4f020a6e7f8bb9b)
+- **Transaction Hash**: `65950d668b6b379c325bd814552fa2f7a56467bd15af1d09e4f020a6e7f8bb9b`
+
+---
+
+
 ## 🛠️ Tech Stack
 
 | Layer        | Technology                                                                 |
